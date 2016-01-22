@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="606fddec-f242-4edb-8bc9-ebd4f39bbe0f" name="weixin_qiandao" url="http://qd.wangbaiyuan.cn">
+        <fileTransfer host="qd.wangbaiyuan.cn" port="21" rootFolder="/wwwroot" password="dfdbdfc3dfcbdfc4dfcedfcbdfc5df98df9adf9bdf9c" username="qd">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
